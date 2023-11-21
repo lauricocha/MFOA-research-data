@@ -1,0 +1,23 @@
+ID,Age,Gender,Ethnicity ID,VAIAK,SSCS,Anxiety_level,STAI-T0,STAI-T1,STAI-change,Weeks_done,Weeks_Completed,Liking,Application
+AMF1970039,52,Female,HispLat,53,39,low_anxiety,29,37,8,8 wks,8,10,10
+BNF2002007,20,Female,Asian,37,36,low_anxiety,25,23,-2,8 wks,8,7,4
+CDF1998025,24,Female,White,21,23,high_anxiety,52,47,-5,8 wks,8,9,10
+CEM1994045,28,Male,White,25,31,high_anxiety,72,60,-12,8 wks,8,7,7
+EVM1965040,57,Male,White,45,38,high_anxiety,52,34,-18,8 wks,8,10,9
+LVF1995046,28,Female,Mixed,39,31,moderate_anxiety,40,40,0,8 wks,8,8,6
+VVR2003016,19,Prefer not to say,HispLat,33,42,low_anxiety,34,26,-8,8 wks,8,5,3
+HKF1990010,32,Female,Asian,44,42,low_anxiety,27,32,5,5-4 wks,5,8,8
+YHF1991019,31,Female,Asian,43,26,low_anxiety,32,,2,5-4 wks,5,,
+SVM1997033,25,Male,HispLat,20,44,high_anxiety,56,46,-10,5-4 wks,4,6,4
+SHF1961006,61,Female,Other,42,37,low_anxiety,29,26,-3,3-2 wks,3,8,7
+CCF1950049,72,Female,White,41,35,low_anxiety,24,25,1,3-2 wks,2,9,10
+ROF1972041,51,Female,White,30,28,low_anxiety,31,25,-6,3-2 wks,2,4,2
+JMM1966029,56,Male,HispLat,25,42,low_anxiety,21,,-1,1 wk,1,,
+BFO1999021,23,Non-binary,White,55,36,high_anxiety,48,,-7,1 wk,1,,
+LMF1997018,26,Female,HispLat,49,36,high_anxiety,52,,-11,1 wk,1,,
+NKM1972043,50,Male,Mixed,19,28,moderate_anxiety,41,,-1,1 wk,1,4,4
+akF1992022,31,Female,White,44,31,high_anxiety,60,48,-12,0 wks,0,10,9
+GCM1969037,53,Male,Asian,42,38,moderate_anxiety,42,30,-12,1 wk,1,10,10
+RHM1998036,24,Male,White,53,39,high_anxiety,53,51,-2,0 wks,0,8,10
+TBF1998044,25,Female,White,52,37,moderate_anxiety,39,36,-3,1 wk,1,8,7
+JSF1999053,23,Female,White,55,33,high_anxiety,48,55,7,0 wks,0,,
